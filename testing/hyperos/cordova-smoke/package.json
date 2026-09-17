@@ -1,0 +1,13 @@
+{
+  "name": "cordova-hyperos-smoke",
+  "displayName": "Cordova HyperOS Smoke",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cordova build android",
+    "run:device": "cordova run android --device"
+  },
+  "devDependencies": {
+    "cordova": "^12.0.0"
+  }
+}
