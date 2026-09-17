@@ -5,6 +5,10 @@ Esta carpeta documenta tecnologías que trabajan junto con los lenguajes del rep
 - **Flutter**: toolkit multiplataforma basado en Dart para interfaces móviles, web y escritorio.
 - **Tokio**: runtime asíncrono de Rust para servicios concurrentes y operaciones de red.
 - **Gin**: framework HTTP de Go para construir APIs y microservicios rápidos.
+- **Laravel**: framework web de PHP para aplicaciones y APIs.
+- **Spring Boot + JavaScript**: backend Java con Spring Boot y frontend JavaScript.
+- **Android Studio**: IDE oficial para aplicaciones Android.
+- **Apache Cordova**: aplicaciones móviles híbridas con tecnologías web.
 
 ## Relación entre las tecnologías
 
@@ -15,6 +19,11 @@ Una arquitectura habitual puede usar Flutter como cliente, Gin como API pública
 - [Flutter](flutter.md)
 - [Tokio](tokio.md)
 - [Gin](gin.md)
+- [Laravel](laravel.md)
+- [Spring Boot y JavaScript](spring-js.md)
+- [Android Studio](android-studio.md)
+- [Apache Cordova](cordova.md)
+- [Pruebas en HyperOS](../../testing/hyperos/README.md)
 
 ## Flujo de trabajo sugerido
 
