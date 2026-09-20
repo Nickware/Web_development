@@ -1,0 +1,1 @@
+/tmp/Web_development/kotlin/kotlin-essential-training/02-Kotlin Koans/Collections/Getting used to new style/src/Task.kt

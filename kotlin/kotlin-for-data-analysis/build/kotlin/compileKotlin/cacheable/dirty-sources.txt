@@ -1,5 +1,5 @@
-/home/jntorresr/IdeaProjects/kotlin-for-data-analysis/src/main/kotlin/Main.kt
-/home/jntorresr/IdeaProjects/kotlin-for-data-analysis/src/main/kotlin/DataVisualizer.kt
-/home/jntorresr/IdeaProjects/kotlin-for-data-analysis/src/main/kotlin/DatabaseAnalyzer.kt
-/home/jntorresr/IdeaProjects/kotlin-for-data-analysis/src/main/kotlin/ApiDataFetcher.kt
-/home/jntorresr/IdeaProjects/kotlin-for-data-analysis/src/main/kotlin/DataLoader.kt
+/tmp/Web_development/kotlin/kotlin-for-data-analysis/src/main/kotlin/ApiDataFetcher.kt
+/tmp/Web_development/kotlin/kotlin-for-data-analysis/src/main/kotlin/DatabaseAnalyzer.kt
+/tmp/Web_development/kotlin/kotlin-for-data-analysis/src/main/kotlin/Main.kt
+/tmp/Web_development/kotlin/kotlin-for-data-analysis/src/main/kotlin/DataVisualizer.kt
+/tmp/Web_development/kotlin/kotlin-for-data-analysis/src/main/kotlin/DataLoader.kt

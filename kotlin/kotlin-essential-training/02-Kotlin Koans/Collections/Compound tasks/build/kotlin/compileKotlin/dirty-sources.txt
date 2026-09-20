@@ -1,0 +1,2 @@
+/tmp/Web_development/kotlin/kotlin-essential-training/02-Kotlin Koans/Collections/Compound tasks/src/Task.kt
+/tmp/Web_development/kotlin/kotlin-essential-training/02-Kotlin Koans/Collections/Compound tasks/src/Shop.kt
